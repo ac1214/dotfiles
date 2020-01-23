@@ -64,3 +64,6 @@ set laststatus=2
 
 "add line numbers
 set number
+
+
+map <C-o> :NERDTreeToggle<CR>
