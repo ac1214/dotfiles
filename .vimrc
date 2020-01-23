@@ -11,7 +11,7 @@ Plug 'tpope/vim-surround'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'airblade/vim-gitgutter'
 Plug 'nathanaelkane/vim-indent-guides'
-
+Plug 'ycm-core/YouCompleteMe'
 
 call plug#end()
 
